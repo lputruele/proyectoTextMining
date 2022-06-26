@@ -9,3 +9,5 @@ El enfoque utilizado consiste en generar un grafo donde los nodos son tweets de 
 Los n-gramas a considerar son los que tienen mejor ranking en base a alguna métrica de asociación. Se comparan en este trabajo 6 métricas: pmi, chi-squared, poisson stirling, likelihood ratio, student-t y jaccard.
 
 El grafo luego se particiona en base a un algoritmo de detección de comunidades, y finalmente se evaluan estas particiones contra el mismo dataset pero etiquetado.
+
+El dataset se extrajo de: https://github.com/pablocelayes/twitter-aborto/tree/master/data
