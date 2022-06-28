@@ -11,3 +11,4 @@ Los n-gramas a considerar son los que tienen mejor ranking en base a alguna mét
 El grafo luego se particiona en base a un algoritmo de detección de comunidades, y finalmente se evaluan estas particiones contra el mismo dataset pero etiquetado.
 
 El dataset se extrajo de: https://github.com/pablocelayes/twitter-aborto/tree/master/data
+La notebook se encuentra en jupyter/ProyectoTextMining.ipynb
